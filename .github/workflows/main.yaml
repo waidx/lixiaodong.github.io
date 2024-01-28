@@ -26,6 +26,6 @@ jobs:
         uses: JamesIves/github-pages-deploy-action@v4
         with:
           token: ${{ secrets.ACCESS_TOKEN1 }}
-          repository-name: waidx/lixiaodong.github.io
+          repository-name: waidx/lilixiaodong.github.io
           branch: doc          
           folder: public
